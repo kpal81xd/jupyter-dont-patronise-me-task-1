@@ -1,0 +1,10 @@
+# All files beginning with dot
+.*
+!/.gitignore
+
+# Python files
+__pycache__
+*.py
+
+# Output
+task1.txt
